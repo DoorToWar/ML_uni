@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+transformers
+sentence-transformers
+scikit-learn
+undetected-chromedriver
+selenium
+emoji
+datasets
+evaluate
+nltk
+bert-score
+accelerate
+pymorphy2
